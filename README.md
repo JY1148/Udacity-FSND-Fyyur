@@ -5,24 +5,10 @@ Fyyur is a musical venue and artist booking site that facilitates the discovery 
 ## Preview:
 
 1. homepage
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b391039-b9f7-4894-9635-4204805401c7/Untitled.png)
-
-2.artists info page
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b890d1ef-790e-4080-ae49-c0b947dbb0c0/Untitled.png)
-
-1. shows list page
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee810eb-34be-4c76-b97e-159c74d5aa92/Untitled.png)
-
-1. venues list page
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d0e93ca2-023e-4c18-ba58-c21f98f144a3/Untitled.png)
-
-1. search page（search of venues and artists supported）
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3c4e0a3-afaa-49c7-8b12-d346b53727f2/Untitled.png)
+2. artists info page
+3. shows list page
+4. venues list page
+5. search page（search of venues and artists supported）
 
 ## Dependencies:
 
